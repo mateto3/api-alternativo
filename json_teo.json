@@ -1,0 +1,45 @@
+[
+  {
+     
+      "Teoria Sobre": "Intervalos",
+      "Descripcion Basica": "Se define como la distancia entre dos sonidos (o notas musicales).. etc etc",
+      "Libro Recomendado": "INTERVALOS - RUA"
+
+  },
+
+
+  {
+    
+    "Teoria Sobre": "Acordes",
+    "Descripcion Basica": "Consiste en un conjunto de tres o mas notas que constituyen una unidad armonica",
+    "Libro Recomendado": "un practico libro de acordes"
+
+},
+
+
+{
+   
+    "Teoria Sobre": "Escalas",
+    "Descripcion Basica": "Conjunto de sonidos ordenados que crean un entorno sonoro particular",
+    "Libro Recomendado": "El libro de las escalas"
+
+},
+  
+{
+   
+    "Teoria Sobre": "Armonia",
+    "Descripcion Basica": "Es aquello que sucede cuando existen dos notas o mas que suenen a la vez. A su vez tambien se define como la ciencia que construye los acordes y que indica la manera de combinarlos de la forma mas equilibrada",
+    "Libro Recomendado": "Harmony"
+
+},
+
+{
+   
+    "Teoria Sobre": "Tiempos",
+    "Descripcion Basica": "Es la velocidad a la que se reproducen los patrones, definida tambien como tempo, medida en BPM (Beats per minute)",
+    "Libro Recomendado": "Tiempo y musica"
+
+}
+
+
+]
